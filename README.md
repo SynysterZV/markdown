@@ -162,7 +162,7 @@ state.
 ### Climate
 
 ![Köppen climate types in Ohio now showing majority as humid
-subtropical](Ohio_Köppen.svg "Köppen climate types in Ohio now showing majority as humid subtropical")
+subtropical](800px-Ohio_Köppen.svg.png "Köppen climate types in Ohio now showing majority as humid subtropical")
 
 The climate of Ohio is a [humid continental
 climate](humid_continental_climate "wikilink") ([Köppen climate
